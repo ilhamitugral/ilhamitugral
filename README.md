@@ -9,7 +9,7 @@
  - [Instagram](https://instagram.com/ilhamitugral)
  - [YouTube](https://www.youtube.com/channel/UCWn6S-iJxE1ENbGcd735eng)
  - [Onedio](https://onedio.com/profil/ilhamitugral)
- - [StackOverflow](https://stackoverflow.com/users/10712652/%C4%B0lhami-tu%C4%9Fral)
+ - [StackOverflow](https://stackoverflow.com/users/10712652/ilhamitugral)
  - [Vikipedi](https://tr.wikipedia.org/wiki/Kullan%C4%B1c%C4%B1:IlhamiTugral)
 
 ## Katkılarım
