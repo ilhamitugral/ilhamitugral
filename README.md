@@ -1,7 +1,7 @@
 
 ## Ben Kimim?
 
-2014'ten beri **yazılım** ile uğraşıyorum. Birçok yazılım dilini "**Gurme**" gibi tattım. **PHP** dilinde ileri seviye bilgiye sahibim. **C**, **C++**, **Python** gibi dillere hakimim. Bunun dışında [Unity](https://unity.com/)'i çok iyi seviyede kullanıyorum. Boş vakitlerimde [Vikipedi](https://tr.wikipedia.org)'ye destek olmaya çalışıyorum. [Uşak Üniversitesi](https://tr.wikipedia.org/wiki/U%C5%9Fak_%C3%9Cniversitesi) Bilgisayar Programcılığı bölümünde okuyorum. Ayrıca boş zamanlarımda **Vikipedist**'lik yapıyorum. Hatalı yer alan içerikleri güncelliyor, iyi bir Vikipedi geleceği için çalışıyorum.
+2014'ten beri **yazılım** ile uğraşıyorum. Birçok yazılım dilini "**Gurme**" gibi tattım. **PHP** dilinde ileri seviye bilgiye sahibim. **C**, **C++**, **Python** gibi dillere hakimim. Bunun dışında [Unity](https://unity.com/)'i çok iyi seviyede kullanıyorum. Boş vakitlerimde [Vikipedi](https://tr.wikipedia.org)'ye destek olmaya çalışıyorum. [Uşak Üniversitesi](https://tr.wikipedia.org/wiki/U%C5%9Fak_%C3%9Cniversitesi) Bilgisayar Programcılığı bölümünde okuyorum. Ayrıca boş zamanlarımda **Vikipedist**'lik yapıyorum. Hatalı yer alan içerikleri güncelliyor, iyi bir [Vikipedi](https://tr.wikipedia.org) geleceği için çalışıyorum.
 
 ## Web Sitem
 - [ilhamitugral.com](https://ilhamitugral.com)
