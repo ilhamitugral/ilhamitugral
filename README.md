@@ -16,4 +16,4 @@
 - [Vikipedi](https://tr.wikipedia.org/wiki/Kullan%C4%B1c%C4%B1:IlhamiTugral)
 
 ## Katkılarım
-- [Rufus](https://github.com/pbatard/rufus) yazılımın Türkçe'leştirilmesi
+- [Rufus](https://github.com/pbatard/rufus) yazılımının Türkçe'leştirilmesi
