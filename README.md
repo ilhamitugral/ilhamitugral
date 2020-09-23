@@ -8,9 +8,6 @@
 
 ## İnternet Dünyası'nda İlhami
 
-- [Twitter](https://twitter.com/ilhamitugral)
-- [Instagram](https://instagram.com/ilhamitugral)
-- [Facebook](https://facebook.com/ilhamitugral)
 - [YouTube](https://www.youtube.com/channel/UCWn6S-iJxE1ENbGcd735eng)
 - [Onedio](https://onedio.com/profil/ilhamitugral)
 - [StackOverflow](https://stackoverflow.com/users/10712652/ilhamitugral)
