@@ -15,3 +15,4 @@
 
 ## Katkılarım
 - [Rufus](https://github.com/pbatard/rufus) yazılımının Türkçe'leştirilmesi
+- [Siber Güvenlik Notları - LuNiZz](https://github.com/LuNiZz/siber-guvenlik-sss) metin düzeltmeleri.
