@@ -8,7 +8,7 @@
 
 ## İnternet Dünyası'nda İlhami
 
-- [YouTube](https://www.youtube.com/channel/UCWn6S-iJxE1ENbGcd735eng)
+- [YouTube](https://www.youtube.com/channel/UCmthLOSP25ofNz7tlzzZvtg)
 - [Onedio](https://onedio.com/profil/ilhamitugral)
 - [StackOverflow](https://stackoverflow.com/users/10712652/ilhamitugral)
 - [Vikipedi](https://tr.wikipedia.org/wiki/Kullan%C4%B1c%C4%B1:IlhamiTugral)
