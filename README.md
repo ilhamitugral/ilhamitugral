@@ -18,3 +18,4 @@ Devlet kurumununda IT bölümünde görev yapıyorum. Bağımsız geliştirici o
 ## Katkılarım
 - [Rufus](https://github.com/pbatard/rufus) yazılımının Türkçe'leştirilmesi
 - [Siber Güvenlik Notları - LuNiZz](https://github.com/LuNiZz/siber-guvenlik-sss) metin düzeltmeleri.
+- [MetaMask Dökümantasyon](https://github.com/MetaMask/metamask-docs) metin düzeltmeleri.
