@@ -2,7 +2,7 @@
 
 <div align="center">
     <p><strong>Welcome to my page!</strong></p>
-    <img src="https://komarev.com/ghpvc/?username=ilhamitugral1&color=green" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=ilhamitugral&color=green" alt="Profile Views"/>
     <p>My name is Ilhami.</p>
     <p>I'm working on Blockchain Technologies.</p>
     <a href="https://www.linkedin.com/in/ilhamitugral">
@@ -60,7 +60,7 @@
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://github-readme-stats.vercel.app/api?username=ilhamitugral&show_icons=true" />
 </picture>
-
+<br>
 <picture>
     <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamitugral&theme=dark"
