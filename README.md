@@ -1,5 +1,4 @@
 <h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"/></h1>
-
 <div align="center">
     <p><strong>Welcome to my page!</strong></p>
     <img src="https://komarev.com/ghpvc/?username=ilhamitugral&color=green" alt="Profile Views"/>
@@ -14,8 +13,14 @@
     <a href="https://instagram.com/ilhamitugral">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instragram"/>
     </a>
-    <a href="https://tr.wikipedia.org/Kullanıcı:Ilhamitugral">
+    <a href="https://www.twitch.tv/ilhamitugral">
+        <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch"/>
+    </a>
+    <a href="https://tr.wikipedia.org/wiki/Kullan%C4%B1c%C4%B1:Ilhamitugral">
         <img src="https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Wikipedia"/>
+    </a>
+    <a href="https://steamcommunity.com/id/ilhamitugral/">
+        <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
     </a>
 </div>
 
@@ -25,6 +30,7 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)]()
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Frameworks
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
