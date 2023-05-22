@@ -4,6 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=ilhamitugral&color=green" alt="Profile Views"/>
     <p>My name is Ilhami.</p>
     <p>I'm working on Blockchain Technologies.</p>
+    <hr>
     <a href="https://www.linkedin.com/in/ilhamitugral">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
@@ -23,6 +24,8 @@
         <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
     </a>
 </div>
+
+<hr>
 
 ### Languages
 [![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
@@ -58,6 +61,6 @@
 <hr>
 
 <div>
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=ilhamitugral&show_icons=true&theme=dark" />
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamitugral&theme=dark" />
+    <img align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wervlad&theme=transparent" />
+    <img align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilhamitugral&theme=transparent"/>
 </div>
