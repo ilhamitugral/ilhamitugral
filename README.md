@@ -2,10 +2,10 @@
 <div align="center">
     <p><strong>Welcome to my page!</strong></p>
     <img src="https://komarev.com/ghpvc/?username=ilhamitugral&color=green" alt="Profile Views"/>
-    <p>My name is Ilhami.</p>
-    <p>I'm working on Blockchain Technologies.</p>
+    <p>My name is <strong>Ilhami</strong>.</p>
+    <p>I'm working on 🔗 <strong>Blockchain Technologies</strong>.</p>
     <hr>
-    <h3 align="center">Social</h3>
+    <h3 align="center">📄 Social Accounts</h3>
     <br>
     <a href="https://www.linkedin.com/in/ilhamitugral">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
