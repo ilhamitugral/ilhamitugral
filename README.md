@@ -5,6 +5,8 @@
     <p>My name is Ilhami.</p>
     <p>I'm working on Blockchain Technologies.</p>
     <hr>
+    <h3 align="center">Social</h3>
+    <br>
     <a href="https://www.linkedin.com/in/ilhamitugral">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
@@ -23,6 +25,7 @@
     <a href="https://steamcommunity.com/id/ilhamitugral/">
         <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
     </a>
+    <br>
 </div>
 
 <hr>
