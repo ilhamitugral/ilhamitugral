@@ -3,7 +3,6 @@
     <p><strong>Welcome to my page!</strong></p>
     <img src="https://komarev.com/ghpvc/?username=ilhamitugral&color=green" alt="Profile Views"/>
     <p>My name is <strong>Ilhami</strong>.</p>
-    <p>I'm working on 🔗 <strong>Blockchain Technologies</strong>.</p>
     <hr>
     <h3 align="center">📄 Social Accounts</h3>
     <br>
