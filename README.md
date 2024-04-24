@@ -6,9 +6,6 @@
     <hr>
     <h3 align="center">📄 Social Accounts</h3>
     <br>
-    <a href="https://youtube.com/@ilhamitugral/">
-        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
-    </a>
     <a href="https://www.linkedin.com/in/ilhamitugral">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
